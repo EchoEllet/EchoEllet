@@ -10,6 +10,3 @@
 <br><br>
 
 Refer to [Fresh Kernel](https://github.com/FreshKernel) for a list of available repositories.
-
-> [!NOTE]
-> I have recently changed my username, only the new commits will be verified
