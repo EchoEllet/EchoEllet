@@ -1,6 +1,6 @@
 ### Hi, World 
 
-- 🔭 I’m currently working on a Mobile App and Website with Kotlin, Ktor, Flutter, and Swift.
+- 🔭 I’m on [Kraft Launcher](https://github.com/KraftLauncher/kraft-launcher).
 - 🌱 I’m looking to collaborate on open-source projects.
 - ⚡ You're welcome to get in touch
 
@@ -8,5 +8,3 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EchoEllet" height="165" />
 
 <br><br>
-
-Refer to [Fresh Kernel](https://github.com/FreshKernel) for a list of available repositories.
