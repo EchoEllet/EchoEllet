@@ -14,7 +14,7 @@ Dedicated Software engineer skilled in creating high-quality solutions. Focused 
     - 🕹️ [Initial Controller implementation after the refactoring](https://github.com/Epic-Fight/epicfight/pull/2133)
     - 📂 [All Issue Reports and Pull Requests](https://github.com/Epic-Fight/epicfight/issues?q=author%3AEchoEllet)
   - [Flutter Quill](https://pub.dev/packages/flutter_quill)
-    - 🔧 [Major refactoring of transitive non-trivial Flutter Quill dependencies](https://github.com/singerdmx/flutter-quill/pull/2230)
+    - 🔧 [Major refactoring to remove transitive non-trivial Flutter Quill dependencies](https://github.com/singerdmx/flutter-quill/pull/2230)
     - 🖼️ [Improve Flutter Quill Image Save for better cross-platform support](https://github.com/singerdmx/flutter-quill/pull/2403)
     - 📂 [All Issue Reports and Pull Requests](https://github.com/singerdmx/flutter-quill/issues?q=author%3AEchoEllet)
   - [Flutter](https://github.com/flutter/)
