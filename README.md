@@ -1,10 +1,12 @@
 ### Ellet
 
-Dedicated Flutter developer skilled in creating high-quality apps, packages, and platform-specific plugins. Focused on delivering fewer, well-executed features, emphasizing clean, maintainable, and tested code. Committed to continuous improvement and collaborative progress.
+Dedicated Software engineer skilled in creating high-quality solutions. Focused on delivering fewer, well-executed features, emphasizing clean, documented, readable, maintainable, and tested code. Committed to continuous improvement and collaborative progress.
 
-- 🔭 I’m working on [Kraft Launcher](https://github.com/KraftLauncher/kraft-launcher).
-- 🌱 I’m looking to collaborate on open-source projects.
-- ⚡ You're welcome to get in touch.
+- 🔭 I’m currently working on:
+  - [Epic Fight](https://github.com/Epic-Fight/epicfight/)
+  - [Kraft Launcher](https://github.com/KraftLauncher/kraft-launcher)
+- 💼 Former maintainer of the [Flutter Quill](https://github.com/singerdmx/flutter-quill) rich text editor project.
+- 🌱 I’m open to collaborating on open-source projects.
 
 <table>
   <tr>
