@@ -13,11 +13,11 @@ Dedicated Software engineer skilled in creating high-quality solutions. Focused 
       - Quickly adapted to Minecraft’s obfuscated internal APIs within a few days, despite no prior experience.
     - 🕹️ [Initial Controller implementation after the refactoring](https://github.com/Epic-Fight/epicfight/pull/2133)
     - 📂 [All Issue Reports and Pull Requests](https://github.com/Epic-Fight/epicfight/issues?q=author%3AEchoEllet)
-  - Flutter Quill
+  - [Flutter Quill](https://pub.dev/packages/flutter_quill)
     - 🔧 [Major refactoring of transitive non-trivial Flutter Quill dependencies](https://github.com/singerdmx/flutter-quill/pull/2230)
     - 🖼️ [Improve Flutter Quill Image Save for better cross-platform support](https://github.com/singerdmx/flutter-quill/pull/2403)
     - 📂 [All Issue Reports and Pull Requests](https://github.com/singerdmx/flutter-quill/issues?q=author%3AEchoEllet)
-  - Flutter
+  - [Flutter](https://github.com/flutter/)
     - 🐛 [An example of a detailed issue report](https://github.com/flutter/flutter/issues/174205#issuecomment-3213572807)
     - ⚡ [An example of a pull request](https://github.com/flutter/packages/pull/8079)
   - [Kobweb](https://github.com/varabyte/kobweb) (Kotlin web framework)
