@@ -2,15 +2,15 @@
 
 Dedicated Software engineer skilled in creating high-quality solutions. Focused on delivering fewer, well-executed features, emphasizing clean, documented, readable, maintainable, and tested code. Committed to continuous improvement and collaborative progress.
 
-- 🔭 I’m currently working on:
+- 🔭 I'm currently working on:
   - [Epic Fight](https://github.com/Epic-Fight/epicfight/)
   - [Kraft Launcher](https://github.com/KraftLauncher/kraft-launcher)
 - 💼 Former maintainer of the [Flutter Quill](https://github.com/singerdmx/flutter-quill) rich text editor project.
-- 🌱 I’m open to collaborating on open-source projects.
+- 🌱 I'm open to collaborating on open-source projects.
 - 📝 Known for creating impactful, focused, well-documented issue reports and pull requests across various open-source projects:
   - [Epic Fight](https://epicfight-docs.readthedocs.io/) (Major Minecraft Java Game Modification)
     - 🎮 [Initial Refactoring for full Controller Support](https://github.com/Epic-Fight/epicfight/issues/2116)
-      - Quickly adapted to Minecraft’s obfuscated internal APIs within a few days, despite no prior experience.
+      - Quickly adapted to Minecraft's obfuscated internal APIs within a few days, despite no prior experience.
     - 🕹️ [Initial Controller implementation after the refactoring](https://github.com/Epic-Fight/epicfight/pull/2133)
     - 📂 [All Issue Reports and Pull Requests](https://github.com/Epic-Fight/epicfight/issues?q=author%3AEchoEllet)
   - [Flutter Quill](https://pub.dev/packages/flutter_quill) (a cross-platform rich text editor library for apps, provides a powerful rich-text paste feature)
